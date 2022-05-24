@@ -1,0 +1,17 @@
+.input {
+    height: 60px;
+    width: 360px;
+    padding: 16px 24px;
+    background-color: #fff;
+    border-radius: 3px;
+    border: none;
+    color: #0A070B;
+    font-size: 16px;
+    font-family: 'Questrial', sans-serif;
+}
+
+.input::placeholder {
+    color: #807E81;
+    
+}
+
